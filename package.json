@@ -6,12 +6,13 @@
   "license": "Apache-2.0",
   "scripts": {
     "ts-node": "ts-node",
-    "cli": "ts-node --esm cli/index.ts"
+    "cli": "ts-node cli/index.ts"
   },
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^9.4.0",
     "jira-client": "^8.1.0",
+    "octokit": "^2.0.4",
     "ts-node": "^10.9.1",
     "typescript": "^4.7.4",
     "yaml": "^2.1.1"
