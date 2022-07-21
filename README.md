@@ -2,8 +2,6 @@
 
 **Goals:**
 
-P1:
-
 - [ ] Create a small cli tool to fetch and sync ("in a smart way")
   - [ ] Jira tickets
   - [ ] GitHub PR
@@ -27,3 +25,4 @@ yarn cli github
 
 yarn cli jira list
 ```
+
