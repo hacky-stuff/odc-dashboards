@@ -4,12 +4,13 @@
 
 P1:
 
-- [ ] Create some cli commands to fetch and sync ("in a smart way") Jira tickets and GitHub issues/PR into a local folder
-- [ ] Create a tiny react based webapp that renders tables and charts to understand our status and dependencies
-
-P2:
-
-- [ ] Can we show the tables also in the terminal?
+- [ ] Create a small cli tool to fetch and sync ("in a smart way")
+  - [ ] Jira tickets
+  - [ ] GitHub PR
+- [ ] Create a small react based webapp that renders tables and charts to understand our status and dependencies
+  - [ ] Epic list with team acks
+  - [ ] Chart how many /retests are needed
+  - [ ] Chart how long our PRs are in review
 
 ## Setup
 
